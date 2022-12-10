@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 <span><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/></span>
+<span><img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=HTML5&logoColor=E34F26"/></span>
+<span><img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=CSS3&logoColor=1572B6"/></span>
+
+
 
