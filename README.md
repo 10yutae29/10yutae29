@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
 
