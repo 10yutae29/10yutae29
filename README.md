@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=10yutae29&show_icons=true&theme=radical)
 
 <h3>Skills...</h3>
 <span><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></span>
