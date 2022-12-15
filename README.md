@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h3>Studying</h3>
 <span><img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=61DAFB"/></span>
-<span><img src="https://img.shields.io/badge/PostCSS-yellow?style=flat-square&logo=PostCSS&logoColor=DD3A0A"/></span>
+<span><img src="https://img.shields.io/badge/PostCSS-black?style=flat-square&logo=PostCSS&logoColor=DD3A0A"/></span>
 
 
 
