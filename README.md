@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Skills
+
+
+
+<h3>Skills</h3>
 <span><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/></span>
 <span><img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=HTML5&logoColor=E34F26"/></span>
@@ -22,7 +25,7 @@ Skills
 <span><img src="https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=Vue.js&logoColor=4FC08D"/></span>
 <span><img src="https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=092E20"/></span>
 
-Studying
+<h3>Studying</h3>
 <span><img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=#61DAFB"/></span>
 
 
