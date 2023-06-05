@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Choi%20YuTae!&fontSize=90&rotate=5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Choi%20YuTae!&fontSize=90&rotate=5" />
 
 ### FrontEnd Engineer 최유태입니다. 👋
 
