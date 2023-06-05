@@ -1,4 +1,4 @@
-### Hi there 👋
+### FrontEnd Engineer 최유태입니다. 👋
 
 <h3>Wanna be a front-end engineer...</h3>
 
